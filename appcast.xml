@@ -4,12 +4,38 @@
         <title>GridSnap</title>
         <item>
             <title>1.3.1</title>
+            <pubDate>Tue, 22 Sep 2026 16:40:22 +0200</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<style>
+body{font:13px/1.55 -apple-system,BlinkMacSystemFont,sans-serif;margin:0;padding:14px 16px}
+h2{font-size:15px;margin:0 0 2px}
+.v{font-size:11px;opacity:.55;margin:0 0 12px}
+ul{margin:0;padding-left:18px} li{margin-bottom:7px} p{margin:0 0 8px}
+</style>
+<h2>GridSnap 1.3.1</h2>
+<p class="v">Fassung 9 · 22.09.2026</p>
+<ul>
+<li>Fenster für Aktualisierungen erscheint jetzt auf Deutsch und zeigt die Hinweise sauber formatiert</li>
+<li>Passwörter im Verlauf: Ein aufgedeckter Eintrag kann keinen später hinzugekommenen mehr offenlegen</li>
+<li>Beim Schließen des Verlaufs wird wieder alles maskiert</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap-1.3.1-9.zip" length="2086630" type="application/octet-stream" sparkle:edSignature="mSq+06EirdJg9gdhd5NCFAmYvGbIqRVeMKNMgidL7AJIYQ+UcoBVMPSIbtxLYZDfvRrrsWFSl0tcp+2+b07PCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap9-8.delta" sparkle:deltaFrom="8" length="2290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C4DIq4Sb9EWvynu1kttxhDnJBo9aq9elNexQ2YlDrkfen+NGtpeK5zVD8mOgAGVO+6EzUMF+9NqJpoNQW551Cg=="/>
+                <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap9-7.delta" sparkle:deltaFrom="7" length="124934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="EMG88etDhZ8OuzL7QsrQKCICASdas89drQKeob78Ypk3kwopXKbfVqyGpYC+ZI1Zi1XyopYvQF+ov3gknLE3CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.3.1</title>
             <pubDate>Tue, 22 Sep 2026 16:37:13 +0200</pubDate>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/S1gono/gridsnap-updates/main/GridSnap-1.3.1-8.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap-1.3.1-8.zip" length="2086600" type="application/octet-stream" sparkle:edSignature="vVNeUmB/j81hIHcJ+NwYP/s8HTIPd9hUBsfWXxNovAqtJoUWNbTI/Psb/K8h+Y0ojikt5qXitC0KuO7g0CP6AA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap8-7.delta" sparkle:deltaFrom="7" length="125218" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QEXB5xWFqPEsBJfKo6wz7jkwOOoxpX+DhVgVITy5dc+sEiCzaVnn2CNm70kDKgU25YXGEFXlSiI8aBIrjdnICw=="/>
@@ -22,7 +48,6 @@
             <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/S1gono/gridsnap-updates/main/GridSnap-1.3.1-7.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap-1.3.1-7.zip" length="2085155" type="application/octet-stream" sparkle:edSignature="kStfsnQ3S273H5mO62Kt46pX3ZwQIgGMcxYxYnB/cln/ZB5xaStOCRa8jWiy3K13SqZb8vY1OIN1TDQd2W1eCw=="/>
         </item>
     </channel>
