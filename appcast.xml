@@ -11,38 +11,6 @@
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/S1gono/gridsnap-updates/main/GridSnap-1.3.1-7.html</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap-1.3.1-7.zip" length="2085155" type="application/octet-stream" sparkle:edSignature="kStfsnQ3S273H5mO62Kt46pX3ZwQIgGMcxYxYnB/cln/ZB5xaStOCRa8jWiy3K13SqZb8vY1OIN1TDQd2W1eCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap7-6.delta" sparkle:deltaFrom="6" length="2250" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977616" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ssrmq5wjeS2Dk0SW1nlXsc9DQJhc1E/5b78AjBrZ0PWfx/24o+xrktprgAbkO6rJWgaptQwC7tMHaHGGRRDYAg=="/>
-                <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap7-5.delta" sparkle:deltaFrom="5" length="5686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="h+XJTJ79LOFiGVSz+6h03g0x13xUjAqUDDUSxP8tCUJohOzJtToxLnCBjsY6oWk6QI4MRf05kW/nshIcG9MJBg=="/>
-                <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap7-4.delta" sparkle:deltaFrom="4" length="5682" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WpFURAtt2y6jqR33iT7Pvk9rP98vkQRQFzsjQi1zBfzuGKHMSJRXS4+j4Ps0Zcj4pw0SWt6U0xr5OW8GDTdQAw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Tue, 22 Sep 2026 13:29:59 +0200</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/S1gono/gridsnap-updates/main/GridSnap-1.3.1-6.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap-1.3.1-6.zip" length="2085157" type="application/octet-stream" sparkle:edSignature="cdNBRmEU/eWvEoeMmYwf9/y9WmacOpHLTPc+Se7kqo/2wv7a20LtPSCyU/8c0Eu8GR/PN8EQlJlmcqlVtACLAA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap6-5.delta" sparkle:deltaFrom="5" length="5690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ae1MX03tda/wLxk/ONn+zw1D2Uhg/khUlCDpEfy8pPxNmUPZkyKzLAhk9XSDC+mLfWpanWIqRSnN5n5LKnDtAA=="/>
-                <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap6-4.delta" sparkle:deltaFrom="4" length="5678" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="vpKeWaVHfZOVKpZMlCA9q+W+VGIXU618AVaPUCVkayQqhq1A9PvV4yrFWST+uY610csT+lYwQba7cWkh8nnaDw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.3.1</title>
-            <pubDate>Tue, 22 Sep 2026 13:23:02 +0200</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/S1gono/gridsnap-updates/main/GridSnap-1.3.1-5.html</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap-1.3.1-5.zip" length="2097523" type="application/octet-stream" sparkle:edSignature="Z3Ik7RtAA6C4RG2cNcwjlUjKxbpbgTydz1EzAYI32sh+ABwUepD/jPQeg9PvAAhUseKyf8lCLveAA9+ZLFIbCg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/S1gono/gridsnap-updates/releases/download/builds/GridSnap5-4.delta" sparkle:deltaFrom="4" length="5502" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977712" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mbvcXuzsMz10TOoY2VdrliNL937ZGjHjrNw6ZVIdh0Chd2ijzYtS9m5oas8TwwpYO8WkdER3e1rh+PubvAK2BA=="/>
-            </sparkle:deltas>
         </item>
     </channel>
 </rss>
